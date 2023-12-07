@@ -18,7 +18,7 @@ section {
 
 .welcome-section {
     height: 100vh;
-    background: url("/img/welcome-section-bg.png") 50% 0 no-repeat;
+    background: url("../img/welcome-section-bg.png") 50% 0 no-repeat;
     background-size: cover;
 }
 
@@ -135,7 +135,7 @@ section {
     font-weight: lighter;
     color: white;
     transform: translateX(-50%);
-    background: url("/img/circle_arrow_down.png") 50% 0 no-repeat;
+    background: url("../img/circle_arrow_down.png") 50% 0 no-repeat;
     text-indent: -9999px;
 }
 
@@ -159,22 +159,22 @@ section {
 
 .what-we-do .print-design {
     border-radius: 50%;
-    background: url("/img/printer.png") 50% 50% no-repeat;
+    background: url("../img/printer.png") 50% 50% no-repeat;
 }
 
 .what-we-do .web-design {
     border-radius: 50%;
-    background: url("/img/monitor.png") 50% 50% no-repeat;
+    background: url("../img/monitor.png") 50% 50% no-repeat;
 }
 
 .what-we-do .app-design {
     border-radius: 50%;
-    background: url("/img/phone.png") 50% 50% no-repeat;
+    background: url("../img/phone.png") 50% 50% no-repeat;
 }
 
 .what-we-do .logo-design {
     border-radius: 50%;
-    background: url("/img/pen.png") 50% 50% no-repeat;
+    background: url("../img/pen.png") 50% 50% no-repeat;
 }
 
 .our-services h4 {
@@ -188,7 +188,7 @@ section {
 }
 
 .sub-form {
-    background: url("/img/form-bg.png") 50% 0 no-repeat;
+    background: url("../img/form-bg.png") 50% 0 no-repeat;
     background-size: cover;
 }
 
@@ -340,7 +340,7 @@ section {
 }
 
 .client-slider {
-    background: url("/img/client-slider-bg.png") 50% 0 no-repeat;
+    background: url("../img/client-slider-bg.png") 50% 0 no-repeat;
     background-size: cover;
     padding: 98px 0;
 }
@@ -368,7 +368,7 @@ section {
     transform: translateX(-220%);
     height: 42px;
     border-width: 0;
-    background: url("/img/arrow_left.png") 50% 0 no-repeat;
+    background: url("../img/arrow_left.png") 50% 0 no-repeat;
     text-indent: -9999px;
 }
 
@@ -377,7 +377,7 @@ section {
     transform: translateX(220%);
     height: 42px;
     border-width: 0;
-    background: url("/img/arrow_right.png") 50% 0 no-repeat;
+    background: url("../img/arrow_right.png") 50% 0 no-repeat;
     text-indent: -9999px;
 }
 
@@ -440,7 +440,7 @@ section {
 }
 
 .feedback {
-    background: url("/img/feedback-bg.png") 50% 0 no-repeat;
+    background: url("../img/feedback-bg.png") 50% 0 no-repeat;
     background-size: cover;
     padding: 102px 0;
 }
