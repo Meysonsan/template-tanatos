@@ -174,7 +174,7 @@ section {
 
 .what-we-do .logo-design {
     border-radius: 50%;
-    background: url("img/pen.png") 50% 50% no-repeat;
+    background: url("../img/pen.png") 50% 50% no-repeat;
 }
 
 .our-services h4 {
